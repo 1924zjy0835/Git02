@@ -7,5 +7,11 @@ def index(request):
 def book(request):
     return HttpResponse("图书列表")
 
-def movie(request):
-    return HttpResponse("电影首页")
+def book_detail(request,book_id):
+    text = '您获取的图书ID是：%s ' % book_id
+    return HttpResponse(text)
+
+def author_detail(request):
+    author_id = request.GET.get('id')
+    text = "您好，您获得的作者的ID是： %s " % author_id
+    return HttpResponse(text)
