@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36fbe7ed-9a23-4f31-9b5a-34c6b67f0a1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cms/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cms/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/URL_name_20191215/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/URL_name_20191215/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="36fbe7ed-9a23-4f31-9b5a-34c6b67f0a1f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +112,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="777" />
-    <option name="y" value="161" />
+    <option name="x" value="648" />
+    <option name="y" value="191" />
     <option name="width" value="1355" />
     <option name="height" value="867" />
   </component>
@@ -210,15 +203,15 @@
       <option name="presentableId" value="Default" />
       <updated>1576369707845</updated>
       <workItem from="1576369709874" duration="337000" />
-      <workItem from="1576371702418" duration="7867000" />
+      <workItem from="1576371702418" duration="8255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8204000" />
+    <option name="totallyTimeSpent" value="8592000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="129" width="1084" height="693" extended-state="0" />
+    <frame x="519" y="153" width="1084" height="693" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25438598" />
@@ -227,7 +220,7 @@
       <window_info anchor="bottom" id="manage.py@URL_name_20191215" weight="0.32902297" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
